@@ -1,0 +1,33 @@
+﻿  Actor.cpp
+  AnimatedSprite.cpp
+  Collectible.cpp
+  CollisionComponent.cpp
+  Component.cpp
+  Game.cpp
+  Ghost.cpp
+  GhostAI.cpp
+  Main.cpp
+  Math.cpp
+  MoveComponent.cpp
+  PacMan.cpp
+  PacManMove.cpp
+  PathNode.cpp
+  Pellet.cpp
+  PowerPellet.cpp
+  Random.cpp
+  SpriteComponent.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\Debug\Game.exe
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\SDL2.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab06\\..\Libraries\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
